@@ -6,4 +6,4 @@ Muslim = True         # boolean
 print(type(Name))     # <class 'str'>
 print(type(Age))      # <class 'int'>
 print(type(Height))   # <class 'float'>
-print(type(Muslim))     # <class 'bool'>
+print(type(Muslim))   # <class 'bool'>
